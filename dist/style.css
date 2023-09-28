@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+
+body {
+    background-color: hsl(217, 54%, 11%);
+    font-family: "Outfit";
+}
+
+main {
+    background-color:  hsl(216, 50%, 16%);
+}
+
+p,.time {
+    color: hsl(215, 51%, 70%);
+}
+hr {
+    background-color: hsl(215, 51%, 70%);
+    border: 1px hsl(215, 51%, 70%) solid;
+    opacity: 0.3;
+}
+
+.coin {
+    color: hsl(178, 100%, 50%);
+}
